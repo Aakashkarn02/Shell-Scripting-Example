@@ -1,0 +1,7 @@
+Create a Bash Script on Linux Enviroment which Should :
+1) Create a folder with your name
+2) Go inside that folder and Create a file with your Amantya ID
+3) Give all permissions to this file
+4) Dump all running processes running on that system in that file
+5) Create tar file with name AmantyaID_assignment.tar.gz having the file created in step 2
+6) cp that file to /root and echo ls
